@@ -6,8 +6,11 @@ export default function Skills(){
   const groups = [
     {title:'Technical', items: resume.skills.technical},
     {title:'Data & Analytics', items: resume.skills.data},
+    {title:'SQL & Databases', items: resume.skills.sql},
     {title:'AI / ML', items: resume.skills.ai},
+    {title:'Data Visualization', items: resume.skills.visualization},
     {title:'Tools', items: resume.skills.tools},
+    {title:'Cloud & APIs', items: resume.skills.cloud},
     {title:'Programming', items: resume.skills.programming},
     {title:'Business', items: resume.skills.business}
   ]

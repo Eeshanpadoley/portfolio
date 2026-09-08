@@ -18,6 +18,7 @@ export default function Projects(){
               <div className="p-6 glass hover:shadow-2xl transition-shadow duration-300 -mt-10 relative rounded-b-2xl">
                 <div className="font-semibold text-lg">{p.name}</div>
                 <div className="text-sm text-gray-300 mt-2">{p.description}</div>
+                <div className="text-sm text-gray-300 mt-3">{p.contribution}</div>
                 <div className="mt-4 flex gap-2 flex-wrap">
                   {(p.tech||[]).map((t:string,i:number)=>(<span key={i} className="text-xs px-2 py-1 bg-gradient-to-r from-white/6 to-white/3 rounded text-white/90">{t}</span>))}
                 </div>
