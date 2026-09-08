@@ -45,12 +45,14 @@ export const resume = {
     },
     {
       name: 'Hospital Patient Analytics',
+      link: 'https://github.com/Eeshanpadoley/Hospital-Patient-Analytics',
       description: 'Patient admissions and treatment trend analysis using Excel, SQL and Power BI to support monitoring and planning.',
       contribution: 'Performed statistical analysis and data validation; designed KPI dashboards and analytical reports to support resource planning and operational efficiency.',
       tech: ['Excel','SQL','Power BI']
     },
     {
       name: 'Road Accident Analysis Dashboard',
+      link: 'https://github.com/Eeshanpadoley/Road-Accident-Analysis-Dashboard',
       description: 'Analysis and visualization of large-scale road accident datasets to identify hotspots and trends.',
       contribution: 'Cleaned and transformed datasets using Python and Excel; built interactive Power BI dashboards showing hotspots, severity trends, and yearly patterns.',
       tech: ['Python','Pandas','Power BI','Excel']
