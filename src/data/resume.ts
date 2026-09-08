@@ -9,8 +9,7 @@ export const resume = {
   location: 'Bhopal, Madhya Pradesh',
   // Public URL to your resume PDF (replace this dummy link with your real link later).
   resumeUrl: 'https://drive.google.com/file/d/13wgYVX_7hjE6_Jz7JrraGTqEqof-zsN-/view',
-  // Photo path used in the hero (local file): `public/myPhoto.png`
-  photoPath: '/myPhoto.png',
+  photoPath: 'https://drive.google.com/thumbnail?id=131M2a76RKPM7G5kmmLLDqDwvdp2jzNsX&sz=w1200',
   summary:
     'Data Analyst with hands-on experience in SQL joins and window functions, Python (Pandas, NumPy, Matplotlib), Power BI (DAX, Power Query), and end-to-end ETL pipelines. Experienced in data cleaning, data modeling, exploratory and statistical analysis, dashboard development, KPI analysis, REST API integration, and business reporting. B.Tech in Data Science (2026) with project experience in classification models, cloud deployment on Render, and data-driven storytelling.',
   stats: {
