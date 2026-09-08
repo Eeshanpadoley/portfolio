@@ -73,8 +73,34 @@ export const resume = {
     }
   ],
   certifications: [
-    { name: 'Cisco Networking Academy – Introduction to Data Science', issuer: 'Cisco Networking Academy', date: 'Apr 2025' },
-    { name: 'Cisco Networking Academy – Python Essentials 1', issuer: 'Cisco Networking Academy', date: 'Jun 2025' }
+    {
+      name: 'Introduction to Data Science',
+      issuer: 'Cisco Networking Academy',
+      date: 'Apr 2025',
+      link: 'https://drive.google.com/file/d/1QFRzY4PLiUrBx2SNL1qXgPU5kWTqAnRw/view',
+      image: 'https://drive.google.com/thumbnail?id=1QFRzY4PLiUrBx2SNL1qXgPU5kWTqAnRw&sz=w1200'
+    },
+    {
+      name: 'Python Essentials 1',
+      issuer: 'Cisco Networking Academy',
+      date: 'Jun 2025',
+      link: 'https://drive.google.com/file/d/1V0CgTBBM_HJbpqSLQC0v_IHapZF56P-Z/view',
+      image: 'https://drive.google.com/thumbnail?id=1V0CgTBBM_HJbpqSLQC0v_IHapZF56P-Z&sz=w1200'
+    },
+    {
+      name: 'AI - Data Engineering Analyst',
+      issuer: 'Skill India',
+      date: '',
+      link: 'https://drive.google.com/file/d/1meg0mYqg9dpU4YK9ViTFf-mP8FUN7-N2/view',
+      image: 'https://drive.google.com/thumbnail?id=1meg0mYqg9dpU4YK9ViTFf-mP8FUN7-N2&sz=w1200'
+    },
+    {
+      name: 'Business Analysis',
+      issuer: 'Simplilearn',
+      date: '',
+      link: 'https://drive.google.com/file/d/1VcYUrQwETFy3vrxnjB8p7-2aUEeKh02O/view',
+      image: 'https://drive.google.com/thumbnail?id=1VcYUrQwETFy3vrxnjB8p7-2aUEeKh02O&sz=w1200'
+    }
   ],
   interests: ['Artificial Intelligence','Machine Learning','Data Science','Data Analytics','Business Intelligence','Data Engineering Fundamental']
 }
